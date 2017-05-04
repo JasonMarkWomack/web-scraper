@@ -1,1 +1,1 @@
-# web-scraper --- Scrapes movie detials from http://www.imdb.com/
+# web-scraper --- Scrapes movie details from http://www.imdb.com/
